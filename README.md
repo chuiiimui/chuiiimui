@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🧐 About Me -<br><br><br>🔭 I’m currently working on ruining my sleep schedule.<br><br>🌱 I’m currently learning how to center a div without crying.<br><br>👯 I’m looking to collaborate on projects that don't require documentation.<br><br>💬 Ask me about why I hate printers.<br><br>🛠️ The "I Googled This" Stack</p>
+<p align="left">🧐 About Me -<br><br><br>🔭 I break things to understand them — then rebuild them better.<br><br>🌱 🔧 Open-source contributor | 💻 Problem solver | ☁️ Tech generalist I enjoy working close to the system: code, infra, automation, and the messy edge where things actually fail.<br><br>🚀 3+ years of hands-on experience building, debugging, and shipping.<br><br>🌍 Active open-source contributor (MediaWiki, GitHub projects)<br><br>⚙️ Comfortable with Python, backend logic, APIs, Linux, Git, and cloud tooling<br><br>🧠 Strong believer in learning by doing, failing fast, and documenting everything.</p>
 
 ###
 
