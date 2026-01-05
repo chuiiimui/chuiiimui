@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🧐 About Me -<br><br><br><br><br>🌱 Open-source contributor | 💻 Problem solver | ☁️ Tech generalist I enjoy working close to the system: code, infra, automation, and the messy edge where things actually fail.<br><br>🚀 3+ years of hands-on experience building, debugging, and shipping.<br><br>🌍 Active open-source contributor (MediaWiki, GitHub projects)<br><br>⚙️ Comfortable with Python, backend logic, APIs, Linux, Git, and cloud tooling<br><br>🧠 Strong believer in learning by doing, failing fast, and documenting everything.</p>
+<p align="left">🧐 About Me -<br><br><br><br><br>🌱 Open-source contributor | 💻 Problem solver | ☁️ Tech generalist .<br><br>🚀 3+ years of hands-on experience building, debugging, and shipping.<br><br>🌍 Active open-source contributor (MediaWiki, GitHub projects)<br><br>⚙️ Comfortable with Python, backend logic, APIs, Linux, Git, and cloud tooling<br><br>🧠 Strong believer in learning by doing, failing fast, and documenting everything.</p>
 
 ###
 
